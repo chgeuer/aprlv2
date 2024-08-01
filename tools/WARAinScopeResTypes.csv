@@ -1700,14 +1700,14 @@ no,Microsoft.Cache/locations/operationResults,null,No
 no,Microsoft.Cache/locations/operationsStatus,null,No
 no,Microsoft.Cache/checkNameAvailability,null,No
 no,Microsoft.Cache/operations,null,No
-yes,Microsoft.Cache/redisEnterprise,Redis Cache,No
+yes,Microsoft.Cache/RedisEnterprise,Redis Cache,No
 no,Microsoft.Cache/RedisEnterprise/privateEndpointConnectionProxies,null,No
 no,Microsoft.Cache/RedisEnterprise/privateEndpointConnectionProxies/validate,null,No
 no,Microsoft.Cache/RedisEnterprise/privateEndpointConnectionProxies/operationresults,null,No
 no,Microsoft.Cache/RedisEnterprise/privateEndpointConnections,null,No
 no,Microsoft.Cache/RedisEnterprise/privateEndpointConnections/operationresults,null,No
 no,Microsoft.Cache/RedisEnterprise/privateLinkResources,null,No
-no,Microsoft.Cache/redisEnterprise/databases,null,No
+no,Microsoft.Cache/RedisEnterprise/databases,null,No
 no,Microsoft.Cache/locations/checkNameAvailability,null,No
 no,Microsoft.Cache/Redis/EventGridFilters,null,No
 no,Microsoft.Capacity/resourceProviders,null,No
